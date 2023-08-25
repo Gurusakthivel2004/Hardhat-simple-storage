@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+
+# Hardhat files
+cache
+artifacts
+
+=======
+.env
+node_modules/
+gas-report.txt
+coverage/
+.encryptedKey.json
+>>>>>>> origin/master
